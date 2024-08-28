@@ -1,0 +1,7 @@
+Original String: The quick Brown Fox
+No.of UPPER case characters: 3
+No.of Lower case Characters: 13
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
